@@ -1,0 +1,8 @@
+## Example Workflow
+1. Create a new repository on GitHub.
+2. Add a `todo_list.txt` file to track your tasks.
+3. Use Git commands to update your to-do list:
+    - `git add todo_list.txt`
+    - `git commit -m "Updated to-do list"`
+    - `git push origin main`
+
