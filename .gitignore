@@ -1,0 +1,16 @@
+Rules to ignore comman files that are not needed in the repository.
+
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore build output directories
+build/
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
