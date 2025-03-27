@@ -35,7 +35,7 @@
     ```
 
 7. **Push Your Changes**  
-    Push your changes to the remote repository:
+    Push your changes to the remote reposit
     ```bash
     git push origin main
     ```
